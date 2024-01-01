@@ -1,0 +1,10 @@
+h1{
+    font-family: "Open sans";
+    background-color: burlywood;
+    color:white;
+    padding:10px;
+
+}
+.black-text{
+    color: black !important;
+}
